@@ -140,3 +140,5 @@ params:
       # emitMetadata: 0
       # inputPosition: top
       # lang: en
+
+publishDir: "public"

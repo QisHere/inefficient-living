@@ -1,4 +1,4 @@
-module github.com/username/my-site
+module github.com/QisHere/inefficient-living
 
 go 1.21.3
 
